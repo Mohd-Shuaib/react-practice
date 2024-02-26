@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-practice/static/css/main.db62923b.css",
+    "main.js": "/react-practice/static/js/main.8496bf17.js",
+    "static/js/453.5c0cbe62.chunk.js": "/react-practice/static/js/453.5c0cbe62.chunk.js",
+    "static/media/img2.jpg": "/react-practice/static/media/img2.4751a9c7124f9d1b9fc7.jpg",
+    "static/media/img1.png": "/react-practice/static/media/img1.35cb09364b4902fe05ec.png",
+    "static/media/graphic-design-1.jpg": "/react-practice/static/media/graphic-design-1.05f0103bdc9fa9644e69.jpg",
+    "static/media/digital-marketing-1.jpg": "/react-practice/static/media/digital-marketing-1.01f7eb86bbf09cd180de.jpg",
+    "static/media/web-design-1.jpg": "/react-practice/static/media/web-design-1.040582e561b6ad35e13a.jpg",
+    "static/media/web-development-1.jpg": "/react-practice/static/media/web-development-1.ad0eabfbeff2478aaaa5.jpg",
+    "static/media/seo-1.jpg": "/react-practice/static/media/seo-1.072e397a5116fd7d5fed.jpg",
+    "static/media/app-development-1.jpg": "/react-practice/static/media/app-development-1.9992d5cdf7fc61f4f4e3.jpg",
+    "index.html": "/react-practice/index.html",
+    "main.db62923b.css.map": "/react-practice/static/css/main.db62923b.css.map",
+    "main.8496bf17.js.map": "/react-practice/static/js/main.8496bf17.js.map",
+    "453.5c0cbe62.chunk.js.map": "/react-practice/static/js/453.5c0cbe62.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db62923b.css",
+    "static/js/main.8496bf17.js"
+  ]
+}
